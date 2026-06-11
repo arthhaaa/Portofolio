@@ -13,7 +13,7 @@ const socialLinks = [
   },
   {
     name: "WhatsApp",
-    href: "https://wa.me/628952676688",
+    href: "https://wa.me/6289526766888",
   },
 ];
 
